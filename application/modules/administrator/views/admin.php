@@ -1,0 +1,1 @@
+<?php echo strtoupper($_SESSION['username']). " " . "Welcome to admin Page"; ?>
